@@ -6,13 +6,13 @@
         "revision": "kk44"        
     },
     {
-        "remote": "TeamBliss",    
+        "remote": "tbd",    
         "repository": "Pimped_DracoKernel",
         "target_path": "kernel/samsung/smdk4412",
         "revision": "kk4.4"        
     },
     {
-        "remote": "TeamBliss",    
+        "remote": "tbd",    
         "repository": "android_device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
         "revision": "kk4.4"        
