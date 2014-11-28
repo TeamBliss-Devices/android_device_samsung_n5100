@@ -1,7 +1,7 @@
 [
     {
         "remote": "cm",    
-        "repository": "device_samsung_kona-common",
+        "repository": "android_device_samsung_kona-common",
         "target_path": "device/samsung/kona-common",
         "revision": "cm-12.0"        
     },
